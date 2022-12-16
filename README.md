@@ -24,5 +24,13 @@ Travaux Pratiques Numéro 4
 <img src="screens/Capture8.png">
 
 # 7. Créer le service de facturation Billing-Service en utilisant Open Feign
+<img src="screens/Capture11.png">
+<img src="screens/Capture12.png">
+<img src="screens/Capture13.png">
+<img src="screens/Capture15.png">
+<img src="screens/Capture16.png">
 
 # 8. Créer un client Web Angular (Clients, Produits, Factures)
+<img src="screens/Capture9.png">
+<img src="screens/Capture10.png">
+<img src="screens/Capture14.png">
